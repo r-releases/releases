@@ -2,8 +2,8 @@ pandoc: 3.1.11
 pkgdown: 2.0.7
 pkgdown_sha: ~
 articles: {}
-last_built: 2024-03-19T19:40Z
+last_built: 2024-03-21T15:22Z
 urls:
-  reference: https://r-releases.github.io/releases/reference
-  article: https://r-releases.github.io/releases/articles
+  reference: https://r-multiverse.org/multitools/reference
+  article: https://r-multiverse.org/multitools/articles
 
