@@ -2,7 +2,7 @@ pandoc: 3.1.11
 pkgdown: 2.0.9
 pkgdown_sha: ~
 articles: {}
-last_built: 2024-05-29T14:08Z
+last_built: 2024-05-29T14:20Z
 urls:
   reference: https://r-multiverse.org/multitools/reference
   article: https://r-multiverse.org/multitools/articles
